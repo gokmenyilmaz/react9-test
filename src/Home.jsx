@@ -52,7 +52,7 @@ export default class Home extends Component {
           <If boolean={true}>
             <Tabs defaultActiveKey="1">
               <TabPane tab="Tab 1" key="1">
-                Tab 1
+                Tab 1 - Yeniversion
               </TabPane>
 
          
