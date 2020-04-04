@@ -14,7 +14,7 @@ export default class App extends  React.Component
   render() {
     return (
      
-        <Router>
+        <Router basename="/build">
           <section style={{display:'flex', width:'100%',boxSizing:'border-box', height:'100vh', padding:'20px', background:'yellow'}}>
            
             <nav style={{background:'red',width:'200px'}}>

@@ -6,7 +6,7 @@ import Ekran from './Ekran';
 
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Ekran />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 
 
 serviceWorker.unregister();
