@@ -1,11 +1,7 @@
 import React, { Component } from 'react'
-import ReactQuill, {Quill}  from 'react-quill'
 import If,{Ifc} from './RcIf'
 import { Tabs } from 'antd';
 import 'antd/dist/antd.css';
-
-
-import 'react-quill/dist/quill.snow.css'; // ES6
 
 
 const { TabPane } = Tabs;
